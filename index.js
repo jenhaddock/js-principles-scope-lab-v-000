@@ -1,3 +1,6 @@
 // Write your solution in this file!
 var customerName = 'bob';
-return customerName;
+
+function customerName (){
+  return customerName;
+}
