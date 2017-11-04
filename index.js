@@ -23,3 +23,8 @@ const leastFavoriteCustomer = 'rude guy';
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'smelly guy';
 }
+
+function attemptTwoFavoriteCustomers() {
+  const favoriteCustomer = 'big tipper';
+  const favoriteCustomer = 'nice lady';
+}
