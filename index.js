@@ -10,7 +10,7 @@ function upperCaseCustomerName() {
   return customerName;
 }
 
-function setBestCustomer(){
-  var bestCustomer = 'not bob'
+function setBestCustomer() {
+  var bestCustomer = 'not bob';
   return bestCustomer;
 }
